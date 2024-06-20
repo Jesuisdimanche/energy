@@ -83,10 +83,9 @@ form{
 }
 h1{
     text-align: center;
-    margin-top: 20%;
+    margin-top: 10%;
 }
 .sec{
-    background-color: red;
     padding: 20px;
     width: 90%;
     margin: 0 auto;
@@ -96,9 +95,15 @@ h1{
 
 }
 .col{
-    background-color: blue;
     padding: 15px;
     margin: 10px 0;
     text-align: justify;
+    width: 30%;
+
+}
+.next{
+    background: black;
+    background-color: red;
+    
 
 }
