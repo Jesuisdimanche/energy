@@ -109,7 +109,7 @@ h1{
     display: grid;
     grid-template-columns:30% 20% ;
     width: 90%;
-    gap: 40%;
+    gap: 50%;
 
 
 }
@@ -118,4 +118,7 @@ h1{
     padding: 5px;
     width: 50%;
     margin: 10px 0;
+}
+.now .p{
+    margin: 30%;
 }
