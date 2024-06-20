@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header{
+    padding:10px;
+    width: 100%;
+    margin: 0;
+    color: black;
+}
+.head{
+    
+    padding: 5px;
+    margin: 0 3px;
+    width: 31%;
+    justify-content: space-evenly;
+    display: inline-flex;
+    text-align: left;
+}
+img{
+    width: 20%;
+    margin: 10px;
+    text-align: left;
+   
+}
+span{
+    margin-top: 30px;
+    text-align: center;
+    word-spacing: normal;
+    text-transform: capitalize;
+}
+button{
+    text-align: right;
+}
+.section{
+    background-color: black;
+    padding: 5px;
+    margin: 0 3px;
+    justify-content: space-evenly;
+    display: inline-flex;
+    text-align: left;
+    width: 100%;
+    color: white;
+}
+
+.one{
+    margin: 5px 0;
+    text-align: end;
+    width: 10%;
+}
+.two{
+    text-align: left;
+    width: 35%;
+    margin-top: 30px;
+}
+.section .three{
+    position: relative;
+    text-align: left;
+    width: 40%;
+    margin-top: 40px;
+}
+.back{
+    background-image:url(OKAY.avif) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    text-align: center;
+    color: white;
+}
+form{
+    text-align: center; 
+    height: max-content; 
+    padding: 10px; 
+    width: max-content; 
+    position: relative; 
+    margin: auto; 
+    background-color: white;
+}
+.form{
+    position: relative;
+    top: 37%;
+}
+h1{
+    text-align: center;
+}
+.sec{
+    background-color: red;
+    padding: 20px;
+    width: 80%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns:24% 24% 24% 24%;
+    gap: 1%;
+
+}
+.col{
+    background-color: blue;
+    padding: 10px;
+    margin: 5px 0;
+
+}
