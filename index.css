@@ -118,5 +118,8 @@ h1{
     margin: 10px 0;
 }
 .now .p{
-    margin: 30%;
+    margin: 60%;
+}
+.now .img{
+    width: 100%;
 }
