@@ -104,7 +104,6 @@ h1{
 
 }
 .next{
-    background: black;
     background-color: red;
     padding: 10px;
     margin: 0 auto;
@@ -116,7 +115,7 @@ h1{
 
 }
 .now{
-    color: blue;
+    background-color: blue;
     padding: 5px;
     width: 50%;
     margin: 10px 0;
