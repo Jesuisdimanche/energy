@@ -98,6 +98,8 @@ h1{
     margin: 10px 0;
     text-align: center;
     box-sizing: content-box;
+    border-radius: 20%;
+    box-shadow: inset;
 
 }
 .next{
