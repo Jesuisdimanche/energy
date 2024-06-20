@@ -83,12 +83,12 @@ form{
 }
 h1{
     text-align: center;
-    margin-top: 20px;
+    margin-top: 20%;
 }
 .sec{
     background-color: red;
     padding: 20px;
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
     display: grid;
     grid-template-columns:24% 24% 24% 24%;
@@ -97,7 +97,8 @@ h1{
 }
 .col{
     background-color: blue;
-    padding: 10px;
-    margin: 5px 0;
+    padding: 15px;
+    margin: 10px 0;
+    text-align: justify;
 
 }
